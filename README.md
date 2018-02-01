@@ -1,4 +1,4 @@
-# Blockchain
+# Blockchain Learning Resources
 On learning blockchain
 
 ## 区块链技术
@@ -113,6 +113,8 @@ in basic blockchain programming](http://davidederosa.com/basic-blockchain-progra
 ### Bitcoin
 **入门论文和白皮书**
 * [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) 比特币原始论文
+
+* [区块链技术指南](https://yeasy.gitbooks.io/blockchain_guide/content/) 
 
 * [Mastering Bitcoin](http://chimera.labs.oreilly.com/books/1234000001802/index.html)/[精通比特币](http://book.8btc.com/books/1/master_bitcoin/_book/) 
 
