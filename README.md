@@ -109,6 +109,7 @@ in basic blockchain programming](http://davidederosa.com/basic-blockchain-progra
 
 ### Bitcoin
 **书籍**
+* [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) 比特币白皮书
 
 * [Mastering Bitcoin](http://chimera.labs.oreilly.com/books/1234000001802/index.html)/[精通比特币](http://book.8btc.com/books/1/master_bitcoin/_book/)
 
