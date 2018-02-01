@@ -33,7 +33,7 @@ Consortium blockchain联盟链：
 >联盟链则介于两者之间，由若干组织一起合作维护一条区块链，该区块链的使用必须是有权限的管理，相关信息会得到保护，典型如银联组织。
 --来自[区块链技术指南](https://yeasy.gitbooks.io/blockchain_guide/content/born/what.html)
 
-拜占庭将军问题：
+[拜占庭将军问题](https://baike.baidu.com/item/%E6%8B%9C%E5%8D%A0%E5%BA%AD%E5%B0%86%E5%86%9B%E9%97%AE%E9%A2%98)：
 >在某些节点出现不可知故障的情况下（包括节点本身的恶意行为），节点需要对数据库的某个值取得共识。
 
 女巫问题：
@@ -96,6 +96,9 @@ in basic blockchain programming](http://davidederosa.com/basic-blockchain-progra
 * PBFT（Practical Byzantine Fault Tolerance）：[区块链核心技术：拜占庭共识算法之PBFT](http://www.jianshu.com/p/fb5edf031afd)
 * [Raft动态演示](http://thesecretlivesofdata.com/raft/?spm=5176.100239.blogcont60400.8.7rQOfk)
 
+**差异性**
+* PoS VS PoW ：[PoS 和 PoW的差异性](http://bitfury.com/content/5-white-papers-research/pos-vs-pow-1.0.2.pdf)
+
 ### 区块链架构
 
 * [Blockchain Infrastructure Landscape: A First Principles Framing](https://blog.bigchaindb.com/blockchain-infrastructure-landscape-a-first-principles-framing-92cc5549bafe)/[区块链底层架构概览：第一原则框架](http://ethfans.org/posts/blockchain-infrastructure-landscape-a-first-principles)
@@ -108,15 +111,20 @@ in basic blockchain programming](http://davidederosa.com/basic-blockchain-progra
 ## 区块链主流应用
 
 ### Bitcoin
-**书籍**
-* [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) 比特币白皮书
+**入门论文和白皮书**
+* [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) 比特币原始论文
 
-* [Mastering Bitcoin](http://chimera.labs.oreilly.com/books/1234000001802/index.html)/[精通比特币](http://book.8btc.com/books/1/master_bitcoin/_book/)
+* [Mastering Bitcoin](http://chimera.labs.oreilly.com/books/1234000001802/index.html)/[精通比特币](http://book.8btc.com/books/1/master_bitcoin/_book/) 
 
+#### 交易速度和交易费用
+* [The Bitcoin Lightning Network:Scalable Off-Chain Instant Payments](https://lightning.network/lightning-network-paper.pdf) 闪电网络
 
 ### Ethereum
 * [Ethereum White Paper](https://github.com/ethereum/wiki/wiki/White-Paper)/[以太坊白皮书](https://github.com/ethereum/wiki/wiki/%5B%E4%B8%AD%E6%96%87%5D-%E4%BB%A5%E5%A4%AA%E5%9D%8A%E7%99%BD%E7%9A%AE%E4%B9%A6)
 
+* [Proof of Stake FAQ](https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ) 以太坊创始人 Vitalik 撰写的 POS 机制的一些细节描述
+
+* [Plasma](http://plasma.io/plasma.pdf) 下一代以太坊扩容自治方案
 
 ### Smart Contract
 * [Solidity Docs](https://solidity.readthedocs.io/en/latest/introduction-to-smart-contracts.html)
